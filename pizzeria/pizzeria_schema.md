@@ -1,12 +1,3 @@
-#~Layout with Sample Tools
-Generated using [DbSchema](https://dbschema.com)
-
-
-
-
-### ~Layout with Sample Tools
-![img](./~LayoutwithSampleTools.svg)
-
 
 
 ### Collection pizzeria.beguda 
