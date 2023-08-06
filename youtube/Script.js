@@ -1,4 +1,4 @@
-CREATE DATABASE 'youtube'
+/*CREATE DATABASE 'youtube'*/
 use('youtube');
 
 db.createCollection('canal',{ validator: { $jsonSchema: {

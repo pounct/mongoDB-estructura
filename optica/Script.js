@@ -1,4 +1,4 @@
-CREATE DATABASE 'optica'
+/*CREATE DATABASE 'optica'*/
 use('optica');
 
 db.createCollection('adreca',{ validator: { $jsonSchema: {

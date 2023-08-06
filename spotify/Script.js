@@ -1,4 +1,4 @@
-CREATE DATABASE 'spotify'
+/*CREATE DATABASE 'spotify'*/
 
 use('spotify');
 
